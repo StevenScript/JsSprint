@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  padding: 0;
+  background-color: #13036e;
+}
+
+.person {
+  background-color: #f8c1d1; /* Example background color */
+  border: 1px solid #000; /* Example border */
+  padding: 10px;
+  margin-bottom: 10px; /* Spacing between person divs */
+}
+
+.person h2 {
+  color: #24131c;
+}
+
+.person img {
+  border: 1px solid #000; /* Example border for image */
+  margin-left: 10px; /* Spacing between image and text */
+}

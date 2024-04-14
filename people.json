@@ -1,0 +1,80 @@
+[
+  {
+    "fname": "Duke",
+    "lname": "Nukem",
+    "gender": "male",
+    "birthday": "07/04/1961",
+    "status": "Action Hero",
+    "salary": 1000000,
+    "attributes": {
+      "strength": "like a freakin' tank",
+      "wit": "Yes."
+    },
+    "catchphrase": "It's time to kick ass and chew bubble gum... and I'm all outta gum."
+  },
+  {
+    "fname": "Ash",
+    "lname": "Williams",
+    "gender": "Male",
+    "birthday": "03/15/1961",
+    "status": "Unlikely Hero / S-Mart Employee",
+    "salary": 30000,
+    "attributes": {
+      "strength": "Can lop off heads with a chainsaw hand",
+      "wit": "As sharp as the blades he wields"
+    },
+    "catchphrase": "Well, I've got news for you pal, you ain't leadin' but two things, right now: Jack and shit... and Jack left town."
+  },
+  {
+    "fname": "B.A.",
+    "lname": "Baracus",
+    "gender": "Male",
+    "birthday": "04/01/1953",
+    "status": "Mechanic / Soldier of Fortune",
+    "salary": 150000,
+    "attributes": {
+      "strength": "Tougher than a two-dollar steak",
+      "wit": "As fast as his van"
+    },
+    "catchphrase": "I pity the fool!"
+  },
+  {
+    "fname": "Peter",
+    "lname": "Venkman",
+    "gender": "Male",
+    "birthday": "02/14/1954",
+    "status": "Ghostbuster / Para-psychologist",
+    "salary": 55000,
+    "attributes": {
+      "strength": "More slippery than a ghost in goo",
+      "wit": "Can outsmart an ectoplasmic entity"
+    },
+    "catchphrase": "We came, we saw, we kicked its ass!"
+  },
+  {
+    "fname": "Ellen",
+    "lname": "Ripley",
+    "gender": "Female",
+    "birthday": "03/08/1949",
+    "status": "Warrant Officer",
+    "salary": 85000,
+    "attributes": {
+      "strength": "Tougher than alien hide",
+      "wit": "Sharper than a xenomorph's teeth"
+    },
+    "catchphrase": "I say we take off and nuke the entire site from orbit. Its the only way to be sure."
+  },
+  {
+    "fname": "T-800",
+    "lname": "Model",
+    "gender": "Identifies as male",
+    "birthday": "07/04/1997",
+    "status": "Terminator",
+    "salary": 0,
+    "attributes": {
+      "strength": "Literally a machine",
+      "wit": "Literally a supercomputer"
+    },
+    "catchphrase": "I'll be back."
+  }
+]
